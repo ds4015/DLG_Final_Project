@@ -1,0 +1,2994 @@
+{
+  "image_0": [
+    "shoe",
+    "fan",
+    "scissors"
+  ],
+  "image_1": [
+    "glasses",
+    "scissors",
+    "spoon",
+    "pillow"
+  ],
+  "image_2": [
+    "stool",
+    "scissors",
+    "cup"
+  ],
+  "image_3": [
+    "phone",
+    "stool",
+    "knife",
+    "candle",
+    "computer"
+  ],
+  "image_4": [
+    "towel",
+    "cat",
+    "clock"
+  ],
+  "image_5": [
+    "umbrella",
+    "person",
+    "cat",
+    "toothbrush",
+    "clock"
+  ],
+  "image_6": [
+    "shelf",
+    "scissors",
+    "shoe"
+  ],
+  "image_7": [
+    "candle",
+    "hat",
+    "dog",
+    "bag"
+  ],
+  "image_8": [
+    "toothbrush",
+    "bike",
+    "umbrella",
+    "fan"
+  ],
+  "image_9": [
+    "bag",
+    "television",
+    "person",
+    "table",
+    "pillow"
+  ],
+  "image_10": [
+    "bed",
+    "phone",
+    "pillow",
+    "hat",
+    "lamp"
+  ],
+  "image_11": [
+    "scissors",
+    "television",
+    "knife",
+    "towel",
+    "window"
+  ],
+  "image_12": [
+    "cup",
+    "hat",
+    "scarf"
+  ],
+  "image_13": [
+    "umbrella",
+    "hat",
+    "scissors"
+  ],
+  "image_14": [
+    "shoe",
+    "window",
+    "glasses"
+  ],
+  "image_15": [
+    "candle",
+    "bag",
+    "glasses"
+  ],
+  "image_16": [
+    "person",
+    "door",
+    "bench"
+  ],
+  "image_17": [
+    "lamp",
+    "towel",
+    "rug",
+    "knife"
+  ],
+  "image_18": [
+    "computer",
+    "knife",
+    "dog",
+    "shelf"
+  ],
+  "image_19": [
+    "book",
+    "shoe",
+    "fan",
+    "lamp"
+  ],
+  "image_20": [
+    "scarf",
+    "candle",
+    "car"
+  ],
+  "image_21": [
+    "bed",
+    "cup",
+    "chair",
+    "fan",
+    "phone"
+  ],
+  "image_22": [
+    "dog",
+    "knife",
+    "table",
+    "cat"
+  ],
+  "image_23": [
+    "table",
+    "dog",
+    "hat",
+    "fan"
+  ],
+  "image_24": [
+    "computer",
+    "book",
+    "chair"
+  ],
+  "image_25": [
+    "hat",
+    "person",
+    "cup",
+    "shoe"
+  ],
+  "image_26": [
+    "book",
+    "television",
+    "person",
+    "painting"
+  ],
+  "image_27": [
+    "cup",
+    "bag",
+    "spoon"
+  ],
+  "image_28": [
+    "lamp",
+    "scarf",
+    "glasses",
+    "mirror"
+  ],
+  "image_29": [
+    "dog",
+    "chair",
+    "lamp",
+    "cat",
+    "table"
+  ],
+  "image_30": [
+    "computer",
+    "car",
+    "hat",
+    "spoon",
+    "pillow"
+  ],
+  "image_31": [
+    "spoon",
+    "bike",
+    "towel"
+  ],
+  "image_32": [
+    "tree",
+    "window",
+    "bag"
+  ],
+  "image_33": [
+    "chair",
+    "spoon",
+    "scarf",
+    "glasses"
+  ],
+  "image_34": [
+    "toothbrush",
+    "painting",
+    "bike",
+    "candle"
+  ],
+  "image_35": [
+    "knife",
+    "window",
+    "bag"
+  ],
+  "image_36": [
+    "glasses",
+    "dog",
+    "car",
+    "book",
+    "bag"
+  ],
+  "image_37": [
+    "glasses",
+    "scarf",
+    "hat"
+  ],
+  "image_38": [
+    "dog",
+    "plant",
+    "shoe"
+  ],
+  "image_39": [
+    "hat",
+    "pillow",
+    "shoe",
+    "shelf",
+    "towel"
+  ],
+  "image_40": [
+    "mirror",
+    "shelf",
+    "bag",
+    "bike"
+  ],
+  "image_41": [
+    "computer",
+    "painting",
+    "tree",
+    "rug",
+    "pillow"
+  ],
+  "image_42": [
+    "bed",
+    "umbrella",
+    "clock",
+    "door",
+    "bike"
+  ],
+  "image_43": [
+    "person",
+    "scarf",
+    "scissors",
+    "cup",
+    "lamp"
+  ],
+  "image_44": [
+    "phone",
+    "stool",
+    "spoon",
+    "tree",
+    "scissors"
+  ],
+  "image_45": [
+    "clock",
+    "cup",
+    "dog",
+    "table",
+    "mirror"
+  ],
+  "image_46": [
+    "umbrella",
+    "computer",
+    "candle",
+    "pillow"
+  ],
+  "image_47": [
+    "book",
+    "towel",
+    "bench",
+    "shelf"
+  ],
+  "image_48": [
+    "door",
+    "lamp",
+    "bike"
+  ],
+  "image_49": [
+    "towel",
+    "chair",
+    "shelf",
+    "painting",
+    "phone"
+  ],
+  "image_50": [
+    "umbrella",
+    "tree",
+    "stool"
+  ],
+  "image_51": [
+    "plant",
+    "car",
+    "mirror"
+  ],
+  "image_52": [
+    "pillow",
+    "bag",
+    "shelf",
+    "painting",
+    "shoe"
+  ],
+  "image_53": [
+    "hat",
+    "shelf",
+    "computer",
+    "painting",
+    "spoon"
+  ],
+  "image_54": [
+    "dog",
+    "window",
+    "umbrella",
+    "fork"
+  ],
+  "image_55": [
+    "pillow",
+    "bag",
+    "book",
+    "door"
+  ],
+  "image_56": [
+    "television",
+    "bed",
+    "scissors",
+    "phone"
+  ],
+  "image_57": [
+    "stool",
+    "bed",
+    "towel",
+    "candle",
+    "bench"
+  ],
+  "image_58": [
+    "bag",
+    "hat",
+    "spoon"
+  ],
+  "image_59": [
+    "glasses",
+    "fan",
+    "painting"
+  ],
+  "image_60": [
+    "glasses",
+    "person",
+    "mirror",
+    "umbrella",
+    "shelf"
+  ],
+  "image_61": [
+    "rug",
+    "knife",
+    "toothbrush"
+  ],
+  "image_62": [
+    "bike",
+    "stool",
+    "toothbrush",
+    "cat",
+    "hat"
+  ],
+  "image_63": [
+    "door",
+    "lamp",
+    "computer",
+    "chair"
+  ],
+  "image_64": [
+    "television",
+    "knife",
+    "lamp",
+    "fan"
+  ],
+  "image_65": [
+    "door",
+    "shelf",
+    "pillow",
+    "painting"
+  ],
+  "image_66": [
+    "window",
+    "bag",
+    "scissors",
+    "phone"
+  ],
+  "image_67": [
+    "table",
+    "television",
+    "shelf",
+    "computer"
+  ],
+  "image_68": [
+    "scarf",
+    "plant",
+    "bag",
+    "window",
+    "car"
+  ],
+  "image_69": [
+    "tree",
+    "lamp",
+    "clock"
+  ],
+  "image_70": [
+    "candle",
+    "toothbrush",
+    "bed",
+    "cup",
+    "hat"
+  ],
+  "image_71": [
+    "table",
+    "car",
+    "candle",
+    "door"
+  ],
+  "image_72": [
+    "table",
+    "umbrella",
+    "cup",
+    "window",
+    "painting"
+  ],
+  "image_73": [
+    "painting",
+    "clock",
+    "bed",
+    "cup",
+    "chair"
+  ],
+  "image_74": [
+    "plant",
+    "person",
+    "pillow"
+  ],
+  "image_75": [
+    "television",
+    "rug",
+    "scissors"
+  ],
+  "image_76": [
+    "towel",
+    "fork",
+    "painting"
+  ],
+  "image_77": [
+    "towel",
+    "car",
+    "phone",
+    "lamp",
+    "cat"
+  ],
+  "image_78": [
+    "pillow",
+    "bag",
+    "toothbrush",
+    "bed"
+  ],
+  "image_79": [
+    "door",
+    "dog",
+    "table"
+  ],
+  "image_80": [
+    "bench",
+    "tree",
+    "car",
+    "candle"
+  ],
+  "image_81": [
+    "tree",
+    "fan",
+    "cup"
+  ],
+  "image_82": [
+    "phone",
+    "window",
+    "knife"
+  ],
+  "image_83": [
+    "bed",
+    "lamp",
+    "stool",
+    "painting",
+    "phone"
+  ],
+  "image_84": [
+    "umbrella",
+    "clock",
+    "table",
+    "dog"
+  ],
+  "image_85": [
+    "bike",
+    "bench",
+    "scarf",
+    "bed",
+    "mirror"
+  ],
+  "image_86": [
+    "rug",
+    "dog",
+    "hat",
+    "towel",
+    "computer"
+  ],
+  "image_87": [
+    "book",
+    "cat",
+    "toothbrush"
+  ],
+  "image_88": [
+    "chair",
+    "book",
+    "phone",
+    "car"
+  ],
+  "image_89": [
+    "car",
+    "stool",
+    "rug"
+  ],
+  "image_90": [
+    "television",
+    "door",
+    "pillow",
+    "spoon",
+    "bike"
+  ],
+  "image_91": [
+    "glasses",
+    "computer",
+    "knife",
+    "fan"
+  ],
+  "image_92": [
+    "stool",
+    "person",
+    "cat"
+  ],
+  "image_93": [
+    "bench",
+    "book",
+    "hat"
+  ],
+  "image_94": [
+    "rug",
+    "bench",
+    "chair",
+    "painting",
+    "pillow"
+  ],
+  "image_95": [
+    "computer",
+    "fork",
+    "tree",
+    "bag",
+    "candle"
+  ],
+  "image_96": [
+    "bed",
+    "mirror",
+    "towel",
+    "chair"
+  ],
+  "image_97": [
+    "chair",
+    "phone",
+    "mirror",
+    "painting"
+  ],
+  "image_98": [
+    "pillow",
+    "glasses",
+    "bag",
+    "rug",
+    "scissors"
+  ],
+  "image_99": [
+    "lamp",
+    "shelf",
+    "chair",
+    "computer"
+  ],
+  "image_100": [
+    "bike",
+    "hat",
+    "book",
+    "scissors",
+    "mirror"
+  ],
+  "image_101": [
+    "shelf",
+    "television",
+    "hat"
+  ],
+  "image_102": [
+    "book",
+    "bag",
+    "stool"
+  ],
+  "image_103": [
+    "rug",
+    "table",
+    "shelf"
+  ],
+  "image_104": [
+    "plant",
+    "knife",
+    "cup",
+    "mirror"
+  ],
+  "image_105": [
+    "cat",
+    "clock",
+    "computer",
+    "car"
+  ],
+  "image_106": [
+    "lamp",
+    "computer",
+    "tree",
+    "hat"
+  ],
+  "image_107": [
+    "shelf",
+    "fork",
+    "bed",
+    "stool"
+  ],
+  "image_108": [
+    "bed",
+    "door",
+    "glasses",
+    "cup",
+    "hat"
+  ],
+  "image_109": [
+    "clock",
+    "car",
+    "rug",
+    "lamp"
+  ],
+  "image_110": [
+    "fork",
+    "door",
+    "bed",
+    "dog"
+  ],
+  "image_111": [
+    "chair",
+    "scarf",
+    "clock"
+  ],
+  "image_112": [
+    "bed",
+    "bench",
+    "glasses",
+    "window",
+    "dog"
+  ],
+  "image_113": [
+    "table",
+    "mirror",
+    "book",
+    "rug",
+    "computer"
+  ],
+  "image_114": [
+    "table",
+    "window",
+    "toothbrush",
+    "rug"
+  ],
+  "image_115": [
+    "shelf",
+    "stool",
+    "glasses",
+    "scissors"
+  ],
+  "image_116": [
+    "table",
+    "bench",
+    "cat",
+    "bag",
+    "spoon"
+  ],
+  "image_117": [
+    "book",
+    "cat",
+    "umbrella",
+    "bike"
+  ],
+  "image_118": [
+    "clock",
+    "scarf",
+    "cat"
+  ],
+  "image_119": [
+    "toothbrush",
+    "lamp",
+    "plant",
+    "glasses"
+  ],
+  "image_120": [
+    "hat",
+    "cup",
+    "chair",
+    "glasses",
+    "spoon"
+  ],
+  "image_121": [
+    "door",
+    "scissors",
+    "computer",
+    "book"
+  ],
+  "image_122": [
+    "chair",
+    "knife",
+    "phone",
+    "candle"
+  ],
+  "image_123": [
+    "dog",
+    "door",
+    "painting",
+    "spoon",
+    "shoe"
+  ],
+  "image_124": [
+    "chair",
+    "glasses",
+    "phone"
+  ],
+  "image_125": [
+    "umbrella",
+    "knife",
+    "rug"
+  ],
+  "image_126": [
+    "fan",
+    "bike",
+    "mirror",
+    "chair",
+    "cat"
+  ],
+  "image_127": [
+    "hat",
+    "television",
+    "table"
+  ],
+  "image_128": [
+    "bag",
+    "cat",
+    "tree",
+    "lamp"
+  ],
+  "image_129": [
+    "bench",
+    "fan",
+    "fork",
+    "mirror"
+  ],
+  "image_130": [
+    "plant",
+    "mirror",
+    "fan",
+    "dog"
+  ],
+  "image_131": [
+    "knife",
+    "towel",
+    "table",
+    "book",
+    "mirror"
+  ],
+  "image_132": [
+    "fork",
+    "bag",
+    "knife"
+  ],
+  "image_133": [
+    "bed",
+    "umbrella",
+    "bench",
+    "glasses",
+    "mirror"
+  ],
+  "image_134": [
+    "television",
+    "person",
+    "towel"
+  ],
+  "image_135": [
+    "candle",
+    "knife",
+    "tree",
+    "chair",
+    "book"
+  ],
+  "image_136": [
+    "table",
+    "window",
+    "lamp",
+    "towel",
+    "phone"
+  ],
+  "image_137": [
+    "book",
+    "fork",
+    "stool"
+  ],
+  "image_138": [
+    "fork",
+    "bed",
+    "tree",
+    "pillow",
+    "toothbrush"
+  ],
+  "image_139": [
+    "door",
+    "computer",
+    "window"
+  ],
+  "image_140": [
+    "car",
+    "television",
+    "scarf"
+  ],
+  "image_141": [
+    "television",
+    "painting",
+    "bench"
+  ],
+  "image_142": [
+    "scarf",
+    "bed",
+    "window",
+    "lamp"
+  ],
+  "image_143": [
+    "cat",
+    "cup",
+    "scarf"
+  ],
+  "image_144": [
+    "mirror",
+    "cup",
+    "book"
+  ],
+  "image_145": [
+    "bike",
+    "computer",
+    "cat",
+    "scarf",
+    "toothbrush"
+  ],
+  "image_146": [
+    "rug",
+    "car",
+    "fan"
+  ],
+  "image_147": [
+    "computer",
+    "pillow",
+    "towel",
+    "dog",
+    "scissors"
+  ],
+  "image_148": [
+    "shoe",
+    "fork",
+    "television"
+  ],
+  "image_149": [
+    "cat",
+    "bench",
+    "spoon"
+  ],
+  "image_150": [
+    "spoon",
+    "bench",
+    "rug"
+  ],
+  "image_151": [
+    "candle",
+    "window",
+    "spoon",
+    "rug"
+  ],
+  "image_152": [
+    "bag",
+    "car",
+    "rug",
+    "toothbrush",
+    "computer"
+  ],
+  "image_153": [
+    "scissors",
+    "fork",
+    "hat"
+  ],
+  "image_154": [
+    "bag",
+    "toothbrush",
+    "car",
+    "clock"
+  ],
+  "image_155": [
+    "pillow",
+    "mirror",
+    "knife",
+    "person"
+  ],
+  "image_156": [
+    "pillow",
+    "book",
+    "cat",
+    "spoon",
+    "stool"
+  ],
+  "image_157": [
+    "painting",
+    "scissors",
+    "television",
+    "fan",
+    "plant"
+  ],
+  "image_158": [
+    "pillow",
+    "scissors",
+    "stool",
+    "car"
+  ],
+  "image_159": [
+    "umbrella",
+    "door",
+    "chair",
+    "lamp",
+    "scarf"
+  ],
+  "image_160": [
+    "painting",
+    "glasses",
+    "shoe"
+  ],
+  "image_161": [
+    "car",
+    "pillow",
+    "cat",
+    "cup"
+  ],
+  "image_162": [
+    "chair",
+    "tree",
+    "scissors",
+    "cat",
+    "bench"
+  ],
+  "image_163": [
+    "spoon",
+    "umbrella",
+    "bag",
+    "dog"
+  ],
+  "image_164": [
+    "toothbrush",
+    "cat",
+    "bench",
+    "tree"
+  ],
+  "image_165": [
+    "painting",
+    "scarf",
+    "computer",
+    "shelf",
+    "mirror"
+  ],
+  "image_166": [
+    "window",
+    "table",
+    "knife"
+  ],
+  "image_167": [
+    "painting",
+    "bed",
+    "umbrella",
+    "table",
+    "tree"
+  ],
+  "image_168": [
+    "rug",
+    "phone",
+    "bike",
+    "door",
+    "shoe"
+  ],
+  "image_169": [
+    "rug",
+    "stool",
+    "scarf"
+  ],
+  "image_170": [
+    "dog",
+    "scissors",
+    "plant",
+    "television"
+  ],
+  "image_171": [
+    "plant",
+    "book",
+    "door",
+    "shoe"
+  ],
+  "image_172": [
+    "chair",
+    "candle",
+    "bench",
+    "dog"
+  ],
+  "image_173": [
+    "umbrella",
+    "table",
+    "bench"
+  ],
+  "image_174": [
+    "rug",
+    "pillow",
+    "stool",
+    "cup"
+  ],
+  "image_175": [
+    "clock",
+    "bed",
+    "cup",
+    "fan"
+  ],
+  "image_176": [
+    "chair",
+    "painting",
+    "cat"
+  ],
+  "image_177": [
+    "hat",
+    "bench",
+    "fan",
+    "knife",
+    "toothbrush"
+  ],
+  "image_178": [
+    "rug",
+    "pillow",
+    "painting",
+    "bench",
+    "fork"
+  ],
+  "image_179": [
+    "pillow",
+    "computer",
+    "painting",
+    "cup"
+  ],
+  "image_180": [
+    "pillow",
+    "candle",
+    "bike"
+  ],
+  "image_181": [
+    "book",
+    "car",
+    "door",
+    "candle",
+    "plant"
+  ],
+  "image_182": [
+    "computer",
+    "bag",
+    "book",
+    "towel"
+  ],
+  "image_183": [
+    "shelf",
+    "mirror",
+    "bed"
+  ],
+  "image_184": [
+    "person",
+    "candle",
+    "spoon",
+    "car"
+  ],
+  "image_185": [
+    "bench",
+    "door",
+    "stool",
+    "shoe",
+    "bed"
+  ],
+  "image_186": [
+    "scarf",
+    "plant",
+    "hat"
+  ],
+  "image_187": [
+    "lamp",
+    "door",
+    "towel",
+    "hat"
+  ],
+  "image_188": [
+    "stool",
+    "bike",
+    "phone",
+    "mirror"
+  ],
+  "image_189": [
+    "scarf",
+    "scissors",
+    "chair",
+    "rug"
+  ],
+  "image_190": [
+    "clock",
+    "candle",
+    "scarf"
+  ],
+  "image_191": [
+    "spoon",
+    "mirror",
+    "towel",
+    "fork"
+  ],
+  "image_192": [
+    "towel",
+    "bike",
+    "cat"
+  ],
+  "image_193": [
+    "candle",
+    "spoon",
+    "glasses",
+    "cat",
+    "bench"
+  ],
+  "image_194": [
+    "person",
+    "shelf",
+    "dog",
+    "bed",
+    "clock"
+  ],
+  "image_195": [
+    "bag",
+    "candle",
+    "fork"
+  ],
+  "image_196": [
+    "glasses",
+    "book",
+    "bed",
+    "bike"
+  ],
+  "image_197": [
+    "scarf",
+    "fork",
+    "hat"
+  ],
+  "image_198": [
+    "glasses",
+    "lamp",
+    "pillow",
+    "window",
+    "phone"
+  ],
+  "image_199": [
+    "person",
+    "computer",
+    "bike",
+    "chair",
+    "umbrella"
+  ],
+  "image_200": [
+    "mirror",
+    "book",
+    "window"
+  ],
+  "image_201": [
+    "window",
+    "bed",
+    "dog"
+  ],
+  "image_202": [
+    "knife",
+    "pillow",
+    "car",
+    "umbrella",
+    "bike"
+  ],
+  "image_203": [
+    "candle",
+    "door",
+    "table",
+    "bag"
+  ],
+  "image_204": [
+    "scarf",
+    "computer",
+    "table",
+    "tree",
+    "plant"
+  ],
+  "image_205": [
+    "computer",
+    "towel",
+    "clock",
+    "bed"
+  ],
+  "image_206": [
+    "mirror",
+    "car",
+    "computer"
+  ],
+  "image_207": [
+    "table",
+    "car",
+    "bag",
+    "towel"
+  ],
+  "image_208": [
+    "bench",
+    "tree",
+    "computer",
+    "phone"
+  ],
+  "image_209": [
+    "chair",
+    "bench",
+    "cup",
+    "painting"
+  ],
+  "image_210": [
+    "scissors",
+    "window",
+    "chair"
+  ],
+  "image_211": [
+    "stool",
+    "scissors",
+    "tree",
+    "television",
+    "knife"
+  ],
+  "image_212": [
+    "computer",
+    "pillow",
+    "window"
+  ],
+  "image_213": [
+    "shelf",
+    "door",
+    "window"
+  ],
+  "image_214": [
+    "hat",
+    "towel",
+    "glasses",
+    "fan"
+  ],
+  "image_215": [
+    "stool",
+    "shelf",
+    "fan",
+    "tree",
+    "spoon"
+  ],
+  "image_216": [
+    "rug",
+    "knife",
+    "scarf",
+    "shelf",
+    "toothbrush"
+  ],
+  "image_217": [
+    "computer",
+    "fork",
+    "window",
+    "glasses",
+    "bag"
+  ],
+  "image_218": [
+    "computer",
+    "mirror",
+    "glasses"
+  ],
+  "image_219": [
+    "pillow",
+    "door",
+    "toothbrush"
+  ],
+  "image_220": [
+    "fork",
+    "mirror",
+    "spoon",
+    "tree"
+  ],
+  "image_221": [
+    "bike",
+    "cup",
+    "dog",
+    "television",
+    "book"
+  ],
+  "image_222": [
+    "toothbrush",
+    "towel",
+    "cat"
+  ],
+  "image_223": [
+    "bag",
+    "shoe",
+    "phone",
+    "clock"
+  ],
+  "image_224": [
+    "toothbrush",
+    "umbrella",
+    "knife"
+  ],
+  "image_225": [
+    "fan",
+    "bed",
+    "fork",
+    "lamp",
+    "chair"
+  ],
+  "image_226": [
+    "cat",
+    "television",
+    "bag",
+    "book",
+    "car"
+  ],
+  "image_227": [
+    "pillow",
+    "knife",
+    "plant",
+    "window",
+    "fork"
+  ],
+  "image_228": [
+    "fan",
+    "table",
+    "hat"
+  ],
+  "image_229": [
+    "toothbrush",
+    "spoon",
+    "door"
+  ],
+  "image_230": [
+    "candle",
+    "scissors",
+    "stool",
+    "fork",
+    "bike"
+  ],
+  "image_231": [
+    "car",
+    "bag",
+    "hat",
+    "television",
+    "cup"
+  ],
+  "image_232": [
+    "bench",
+    "mirror",
+    "hat",
+    "knife"
+  ],
+  "image_233": [
+    "lamp",
+    "bench",
+    "clock"
+  ],
+  "image_234": [
+    "scissors",
+    "spoon",
+    "cat"
+  ],
+  "image_235": [
+    "fork",
+    "cat",
+    "bench"
+  ],
+  "image_236": [
+    "mirror",
+    "scarf",
+    "bike",
+    "lamp"
+  ],
+  "image_237": [
+    "cup",
+    "toothbrush",
+    "rug",
+    "bed"
+  ],
+  "image_238": [
+    "toothbrush",
+    "plant",
+    "pillow"
+  ],
+  "image_239": [
+    "rug",
+    "plant",
+    "pillow",
+    "scarf",
+    "cup"
+  ],
+  "image_240": [
+    "phone",
+    "bed",
+    "cat"
+  ],
+  "image_241": [
+    "stool",
+    "candle",
+    "hat",
+    "towel"
+  ],
+  "image_242": [
+    "toothbrush",
+    "knife",
+    "fork",
+    "table",
+    "lamp"
+  ],
+  "image_243": [
+    "towel",
+    "table",
+    "tree"
+  ],
+  "image_244": [
+    "shelf",
+    "phone",
+    "glasses",
+    "television",
+    "cat"
+  ],
+  "image_245": [
+    "chair",
+    "fork",
+    "lamp",
+    "shoe",
+    "car"
+  ],
+  "image_246": [
+    "plant",
+    "scarf",
+    "toothbrush"
+  ],
+  "image_247": [
+    "cat",
+    "fan",
+    "book"
+  ],
+  "image_248": [
+    "scissors",
+    "clock",
+    "shelf",
+    "table",
+    "umbrella"
+  ],
+  "image_249": [
+    "plant",
+    "pillow",
+    "window",
+    "knife"
+  ],
+  "image_250": [
+    "plant",
+    "bed",
+    "clock",
+    "scissors"
+  ],
+  "image_251": [
+    "scarf",
+    "bench",
+    "painting"
+  ],
+  "image_252": [
+    "towel",
+    "window",
+    "bike"
+  ],
+  "image_253": [
+    "window",
+    "computer",
+    "scissors",
+    "car",
+    "plant"
+  ],
+  "image_254": [
+    "fork",
+    "umbrella",
+    "bench"
+  ],
+  "image_255": [
+    "fan",
+    "person",
+    "tree"
+  ],
+  "image_256": [
+    "painting",
+    "umbrella",
+    "bench",
+    "tree",
+    "rug"
+  ],
+  "image_257": [
+    "television",
+    "rug",
+    "table",
+    "scarf",
+    "shelf"
+  ],
+  "image_258": [
+    "stool",
+    "clock",
+    "television",
+    "towel"
+  ],
+  "image_259": [
+    "bag",
+    "car",
+    "towel",
+    "phone"
+  ],
+  "image_260": [
+    "scissors",
+    "television",
+    "bike"
+  ],
+  "image_261": [
+    "towel",
+    "bench",
+    "bed",
+    "painting",
+    "computer"
+  ],
+  "image_262": [
+    "cat",
+    "spoon",
+    "stool",
+    "bed"
+  ],
+  "image_263": [
+    "fork",
+    "pillow",
+    "cup",
+    "shelf",
+    "knife"
+  ],
+  "image_264": [
+    "dog",
+    "fan",
+    "scarf",
+    "bag",
+    "book"
+  ],
+  "image_265": [
+    "toothbrush",
+    "cat",
+    "shelf",
+    "person",
+    "cup"
+  ],
+  "image_266": [
+    "phone",
+    "bench",
+    "plant"
+  ],
+  "image_267": [
+    "window",
+    "table",
+    "bench",
+    "cup",
+    "television"
+  ],
+  "image_268": [
+    "spoon",
+    "phone",
+    "bed",
+    "cat",
+    "dog"
+  ],
+  "image_269": [
+    "shelf",
+    "shoe",
+    "toothbrush",
+    "bike",
+    "door"
+  ],
+  "image_270": [
+    "phone",
+    "scissors",
+    "book",
+    "cat",
+    "towel"
+  ],
+  "image_271": [
+    "bag",
+    "knife",
+    "scissors"
+  ],
+  "image_272": [
+    "tree",
+    "towel",
+    "shelf"
+  ],
+  "image_273": [
+    "table",
+    "stool",
+    "painting",
+    "door"
+  ],
+  "image_274": [
+    "umbrella",
+    "person",
+    "toothbrush"
+  ],
+  "image_275": [
+    "candle",
+    "scissors",
+    "glasses",
+    "stool"
+  ],
+  "image_276": [
+    "toothbrush",
+    "fan",
+    "lamp"
+  ],
+  "image_277": [
+    "bed",
+    "tree",
+    "car",
+    "painting",
+    "scissors"
+  ],
+  "image_278": [
+    "rug",
+    "painting",
+    "towel"
+  ],
+  "image_279": [
+    "bed",
+    "stool",
+    "phone",
+    "lamp",
+    "mirror"
+  ],
+  "image_280": [
+    "knife",
+    "hat",
+    "bench",
+    "umbrella",
+    "book"
+  ],
+  "image_281": [
+    "scissors",
+    "bike",
+    "spoon",
+    "bed"
+  ],
+  "image_282": [
+    "chair",
+    "stool",
+    "umbrella",
+    "bag",
+    "towel"
+  ],
+  "image_283": [
+    "phone",
+    "clock",
+    "person"
+  ],
+  "image_284": [
+    "hat",
+    "candle",
+    "knife",
+    "chair"
+  ],
+  "image_285": [
+    "bed",
+    "glasses",
+    "tree",
+    "fork",
+    "bike"
+  ],
+  "image_286": [
+    "toothbrush",
+    "shelf",
+    "glasses",
+    "clock"
+  ],
+  "image_287": [
+    "television",
+    "umbrella",
+    "bike",
+    "scarf"
+  ],
+  "image_288": [
+    "door",
+    "umbrella",
+    "tree"
+  ],
+  "image_289": [
+    "cup",
+    "bike",
+    "umbrella",
+    "pillow"
+  ],
+  "image_290": [
+    "person",
+    "candle",
+    "pillow"
+  ],
+  "image_291": [
+    "phone",
+    "toothbrush",
+    "chair"
+  ],
+  "image_292": [
+    "umbrella",
+    "bag",
+    "door"
+  ],
+  "image_293": [
+    "umbrella",
+    "painting",
+    "phone",
+    "person",
+    "fork"
+  ],
+  "image_294": [
+    "bag",
+    "towel",
+    "scarf",
+    "candle"
+  ],
+  "image_295": [
+    "scarf",
+    "stool",
+    "phone"
+  ],
+  "image_296": [
+    "television",
+    "chair",
+    "computer"
+  ],
+  "image_297": [
+    "television",
+    "fan",
+    "spoon",
+    "shoe"
+  ],
+  "image_298": [
+    "bed",
+    "lamp",
+    "book",
+    "chair"
+  ],
+  "image_299": [
+    "towel",
+    "painting",
+    "toothbrush",
+    "fork",
+    "candle"
+  ],
+  "image_300": [
+    "table",
+    "chair",
+    "stool",
+    "book",
+    "person"
+  ],
+  "image_301": [
+    "bed",
+    "dog",
+    "knife",
+    "bag",
+    "book"
+  ],
+  "image_302": [
+    "window",
+    "computer",
+    "scarf",
+    "lamp",
+    "shelf"
+  ],
+  "image_303": [
+    "window",
+    "mirror",
+    "fork",
+    "tree"
+  ],
+  "image_304": [
+    "door",
+    "plant",
+    "scissors",
+    "bench",
+    "mirror"
+  ],
+  "image_305": [
+    "book",
+    "person",
+    "scarf",
+    "fork"
+  ],
+  "image_306": [
+    "clock",
+    "door",
+    "fork",
+    "plant"
+  ],
+  "image_307": [
+    "lamp",
+    "chair",
+    "window",
+    "towel",
+    "spoon"
+  ],
+  "image_308": [
+    "plant",
+    "lamp",
+    "bike"
+  ],
+  "image_309": [
+    "scissors",
+    "bag",
+    "tree"
+  ],
+  "image_310": [
+    "bike",
+    "phone",
+    "dog",
+    "tree",
+    "knife"
+  ],
+  "image_311": [
+    "table",
+    "lamp",
+    "shoe"
+  ],
+  "image_312": [
+    "person",
+    "window",
+    "painting",
+    "table",
+    "tree"
+  ],
+  "image_313": [
+    "dog",
+    "chair",
+    "table",
+    "towel",
+    "scissors"
+  ],
+  "image_314": [
+    "cup",
+    "chair",
+    "scarf",
+    "door"
+  ],
+  "image_315": [
+    "fan",
+    "chair",
+    "door",
+    "shelf"
+  ],
+  "image_316": [
+    "painting",
+    "computer",
+    "spoon",
+    "glasses"
+  ],
+  "image_317": [
+    "chair",
+    "hat",
+    "stool",
+    "clock"
+  ],
+  "image_318": [
+    "pillow",
+    "bike",
+    "television"
+  ],
+  "image_319": [
+    "car",
+    "clock",
+    "computer",
+    "mirror"
+  ],
+  "image_320": [
+    "bike",
+    "spoon",
+    "book",
+    "computer",
+    "knife"
+  ],
+  "image_321": [
+    "pillow",
+    "tree",
+    "computer",
+    "book"
+  ],
+  "image_322": [
+    "television",
+    "person",
+    "phone",
+    "candle",
+    "toothbrush"
+  ],
+  "image_323": [
+    "stool",
+    "television",
+    "window",
+    "scissors"
+  ],
+  "image_324": [
+    "lamp",
+    "stool",
+    "painting"
+  ],
+  "image_325": [
+    "glasses",
+    "plant",
+    "shelf",
+    "toothbrush"
+  ],
+  "image_326": [
+    "book",
+    "computer",
+    "chair",
+    "shelf",
+    "bike"
+  ],
+  "image_327": [
+    "spoon",
+    "window",
+    "bag",
+    "stool",
+    "bike"
+  ],
+  "image_328": [
+    "door",
+    "bed",
+    "dog"
+  ],
+  "image_329": [
+    "clock",
+    "table",
+    "towel",
+    "chair"
+  ],
+  "image_330": [
+    "glasses",
+    "window",
+    "person",
+    "candle"
+  ],
+  "image_331": [
+    "shoe",
+    "plant",
+    "person",
+    "chair"
+  ],
+  "image_332": [
+    "shoe",
+    "cat",
+    "glasses",
+    "fan"
+  ],
+  "image_333": [
+    "shoe",
+    "book",
+    "tree"
+  ],
+  "image_334": [
+    "fan",
+    "painting",
+    "car",
+    "table",
+    "shoe"
+  ],
+  "image_335": [
+    "phone",
+    "stool",
+    "person"
+  ],
+  "image_336": [
+    "scissors",
+    "bench",
+    "bike"
+  ],
+  "image_337": [
+    "plant",
+    "knife",
+    "book",
+    "bike",
+    "fork"
+  ],
+  "image_338": [
+    "chair",
+    "computer",
+    "person"
+  ],
+  "image_339": [
+    "bed",
+    "stool",
+    "hat"
+  ],
+  "image_340": [
+    "television",
+    "table",
+    "computer"
+  ],
+  "image_341": [
+    "spoon",
+    "bike",
+    "cat"
+  ],
+  "image_342": [
+    "door",
+    "chair",
+    "shoe",
+    "rug",
+    "person"
+  ],
+  "image_343": [
+    "shoe",
+    "hat",
+    "candle",
+    "toothbrush"
+  ],
+  "image_344": [
+    "lamp",
+    "table",
+    "bike"
+  ],
+  "image_345": [
+    "cup",
+    "candle",
+    "dog",
+    "painting",
+    "toothbrush"
+  ],
+  "image_346": [
+    "pillow",
+    "glasses",
+    "fan",
+    "computer"
+  ],
+  "image_347": [
+    "phone",
+    "dog",
+    "table"
+  ],
+  "image_348": [
+    "cat",
+    "plant",
+    "shelf",
+    "tree",
+    "knife"
+  ],
+  "image_349": [
+    "table",
+    "cup",
+    "rug",
+    "television"
+  ],
+  "image_350": [
+    "person",
+    "cat",
+    "window",
+    "painting"
+  ],
+  "image_351": [
+    "door",
+    "phone",
+    "scarf",
+    "chair"
+  ],
+  "image_352": [
+    "cat",
+    "mirror",
+    "phone"
+  ],
+  "image_353": [
+    "spoon",
+    "person",
+    "tree"
+  ],
+  "image_354": [
+    "rug",
+    "tree",
+    "shelf"
+  ],
+  "image_355": [
+    "pillow",
+    "candle",
+    "cat",
+    "fork"
+  ],
+  "image_356": [
+    "chair",
+    "fork",
+    "bag"
+  ],
+  "image_357": [
+    "computer",
+    "umbrella",
+    "scarf"
+  ],
+  "image_358": [
+    "bag",
+    "shoe",
+    "dog",
+    "car"
+  ],
+  "image_359": [
+    "knife",
+    "rug",
+    "toothbrush",
+    "fork"
+  ],
+  "image_360": [
+    "spoon",
+    "shoe",
+    "scarf",
+    "table"
+  ],
+  "image_361": [
+    "rug",
+    "window",
+    "fork"
+  ],
+  "image_362": [
+    "lamp",
+    "tree",
+    "bench",
+    "spoon"
+  ],
+  "image_363": [
+    "shoe",
+    "stool",
+    "lamp",
+    "umbrella"
+  ],
+  "image_364": [
+    "hat",
+    "television",
+    "fan",
+    "bed",
+    "car"
+  ],
+  "image_365": [
+    "spoon",
+    "lamp",
+    "computer",
+    "chair",
+    "clock"
+  ],
+  "image_366": [
+    "hat",
+    "umbrella",
+    "bag",
+    "clock",
+    "window"
+  ],
+  "image_367": [
+    "phone",
+    "spoon",
+    "chair"
+  ],
+  "image_368": [
+    "cup",
+    "fan",
+    "shelf",
+    "lamp"
+  ],
+  "image_369": [
+    "book",
+    "toothbrush",
+    "phone",
+    "stool",
+    "rug"
+  ],
+  "image_370": [
+    "spoon",
+    "plant",
+    "shoe",
+    "car",
+    "television"
+  ],
+  "image_371": [
+    "pillow",
+    "cat",
+    "lamp",
+    "painting"
+  ],
+  "image_372": [
+    "stool",
+    "door",
+    "umbrella",
+    "clock",
+    "bike"
+  ],
+  "image_373": [
+    "scissors",
+    "fan",
+    "shoe",
+    "fork"
+  ],
+  "image_374": [
+    "window",
+    "television",
+    "chair"
+  ],
+  "image_375": [
+    "table",
+    "chair",
+    "television",
+    "hat",
+    "scissors"
+  ],
+  "image_376": [
+    "stool",
+    "bed",
+    "bag",
+    "tree",
+    "towel"
+  ],
+  "image_377": [
+    "bike",
+    "knife",
+    "pillow",
+    "umbrella",
+    "rug"
+  ],
+  "image_378": [
+    "candle",
+    "knife",
+    "stool",
+    "person"
+  ],
+  "image_379": [
+    "shoe",
+    "phone",
+    "stool",
+    "person"
+  ],
+  "image_380": [
+    "book",
+    "shelf",
+    "bike"
+  ],
+  "image_381": [
+    "mirror",
+    "cat",
+    "television"
+  ],
+  "image_382": [
+    "rug",
+    "toothbrush",
+    "television",
+    "scarf"
+  ],
+  "image_383": [
+    "book",
+    "clock",
+    "television",
+    "toothbrush",
+    "fork"
+  ],
+  "image_384": [
+    "knife",
+    "scarf",
+    "door"
+  ],
+  "image_385": [
+    "window",
+    "fork",
+    "umbrella"
+  ],
+  "image_386": [
+    "shelf",
+    "cup",
+    "bench"
+  ],
+  "image_387": [
+    "plant",
+    "umbrella",
+    "cup",
+    "book",
+    "fan"
+  ],
+  "image_388": [
+    "shelf",
+    "table",
+    "bag",
+    "scarf"
+  ],
+  "image_389": [
+    "candle",
+    "tree",
+    "cup",
+    "painting",
+    "shoe"
+  ],
+  "image_390": [
+    "toothbrush",
+    "person",
+    "tree",
+    "dog"
+  ],
+  "image_391": [
+    "mirror",
+    "table",
+    "cup"
+  ],
+  "image_392": [
+    "television",
+    "fork",
+    "tree",
+    "shoe",
+    "plant"
+  ],
+  "image_393": [
+    "book",
+    "mirror",
+    "rug",
+    "hat"
+  ],
+  "image_394": [
+    "hat",
+    "plant",
+    "cat"
+  ],
+  "image_395": [
+    "scissors",
+    "toothbrush",
+    "bag"
+  ],
+  "image_396": [
+    "fan",
+    "painting",
+    "bed"
+  ],
+  "image_397": [
+    "person",
+    "lamp",
+    "bike",
+    "scissors",
+    "tree"
+  ],
+  "image_398": [
+    "umbrella",
+    "bench",
+    "rug",
+    "clock",
+    "fan"
+  ],
+  "image_399": [
+    "rug",
+    "bike",
+    "person"
+  ],
+  "image_400": [
+    "computer",
+    "bed",
+    "bench"
+  ],
+  "image_401": [
+    "spoon",
+    "chair",
+    "bike",
+    "tree"
+  ],
+  "image_402": [
+    "bench",
+    "car",
+    "window",
+    "cat",
+    "shoe"
+  ],
+  "image_403": [
+    "cat",
+    "tree",
+    "fork"
+  ],
+  "image_404": [
+    "table",
+    "rug",
+    "shelf",
+    "towel"
+  ],
+  "image_405": [
+    "bench",
+    "rug",
+    "candle",
+    "bed"
+  ],
+  "image_406": [
+    "candle",
+    "towel",
+    "toothbrush"
+  ],
+  "image_407": [
+    "door",
+    "glasses",
+    "stool",
+    "bag",
+    "dog"
+  ],
+  "image_408": [
+    "glasses",
+    "scarf",
+    "clock",
+    "hat",
+    "mirror"
+  ],
+  "image_409": [
+    "cup",
+    "lamp",
+    "hat",
+    "shelf"
+  ],
+  "image_410": [
+    "spoon",
+    "person",
+    "shoe",
+    "dog",
+    "clock"
+  ],
+  "image_411": [
+    "fan",
+    "tree",
+    "candle",
+    "shoe"
+  ],
+  "image_412": [
+    "bench",
+    "bag",
+    "phone"
+  ],
+  "image_413": [
+    "lamp",
+    "book",
+    "television",
+    "person"
+  ],
+  "image_414": [
+    "fan",
+    "tree",
+    "table",
+    "scissors",
+    "toothbrush"
+  ],
+  "image_415": [
+    "door",
+    "cup",
+    "glasses",
+    "hat",
+    "computer"
+  ],
+  "image_416": [
+    "chair",
+    "mirror",
+    "pillow"
+  ],
+  "image_417": [
+    "lamp",
+    "fan",
+    "person",
+    "shoe",
+    "knife"
+  ],
+  "image_418": [
+    "bench",
+    "table",
+    "dog",
+    "fork",
+    "umbrella"
+  ],
+  "image_419": [
+    "person",
+    "bench",
+    "scissors"
+  ],
+  "image_420": [
+    "door",
+    "cat",
+    "fan",
+    "mirror"
+  ],
+  "image_421": [
+    "bed",
+    "umbrella",
+    "fork",
+    "rug"
+  ],
+  "image_422": [
+    "bike",
+    "glasses",
+    "shelf",
+    "rug"
+  ],
+  "image_423": [
+    "cup",
+    "bike",
+    "spoon",
+    "stool"
+  ],
+  "image_424": [
+    "car",
+    "fork",
+    "knife",
+    "television",
+    "bike"
+  ],
+  "image_425": [
+    "tree",
+    "candle",
+    "bench",
+    "towel",
+    "table"
+  ],
+  "image_426": [
+    "cup",
+    "toothbrush",
+    "candle",
+    "painting"
+  ],
+  "image_427": [
+    "scissors",
+    "plant",
+    "shoe"
+  ],
+  "image_428": [
+    "shelf",
+    "towel",
+    "scarf"
+  ],
+  "image_429": [
+    "shelf",
+    "window",
+    "spoon",
+    "umbrella"
+  ],
+  "image_430": [
+    "cat",
+    "cup",
+    "table",
+    "umbrella"
+  ],
+  "image_431": [
+    "window",
+    "towel",
+    "pillow"
+  ],
+  "image_432": [
+    "glasses",
+    "window",
+    "stool",
+    "lamp",
+    "hat"
+  ],
+  "image_433": [
+    "table",
+    "door",
+    "painting"
+  ],
+  "image_434": [
+    "towel",
+    "dog",
+    "stool"
+  ],
+  "image_435": [
+    "lamp",
+    "stool",
+    "rug",
+    "knife",
+    "glasses"
+  ],
+  "image_436": [
+    "computer",
+    "candle",
+    "door",
+    "television"
+  ],
+  "image_437": [
+    "shelf",
+    "table",
+    "book",
+    "scarf",
+    "pillow"
+  ],
+  "image_438": [
+    "phone",
+    "pillow",
+    "spoon",
+    "mirror"
+  ],
+  "image_439": [
+    "mirror",
+    "person",
+    "window",
+    "scarf"
+  ],
+  "image_440": [
+    "scissors",
+    "bench",
+    "computer"
+  ],
+  "image_441": [
+    "rug",
+    "bench",
+    "mirror"
+  ],
+  "image_442": [
+    "table",
+    "lamp",
+    "cat",
+    "cup"
+  ],
+  "image_443": [
+    "cat",
+    "bed",
+    "bench",
+    "car"
+  ],
+  "image_444": [
+    "car",
+    "window",
+    "bike"
+  ],
+  "image_445": [
+    "book",
+    "clock",
+    "pillow",
+    "bed",
+    "computer"
+  ],
+  "image_446": [
+    "shelf",
+    "painting",
+    "bench",
+    "stool"
+  ],
+  "image_447": [
+    "stool",
+    "bag",
+    "phone",
+    "lamp",
+    "chair"
+  ],
+  "image_448": [
+    "bed",
+    "painting",
+    "rug"
+  ],
+  "image_449": [
+    "candle",
+    "bed",
+    "spoon",
+    "towel"
+  ],
+  "image_450": [
+    "lamp",
+    "car",
+    "fan",
+    "table",
+    "pillow"
+  ],
+  "image_451": [
+    "scarf",
+    "book",
+    "television",
+    "umbrella"
+  ],
+  "image_452": [
+    "tree",
+    "scarf",
+    "table",
+    "cup",
+    "bench"
+  ],
+  "image_453": [
+    "chair",
+    "book",
+    "bench",
+    "toothbrush",
+    "towel"
+  ],
+  "image_454": [
+    "shelf",
+    "towel",
+    "chair"
+  ],
+  "image_455": [
+    "bench",
+    "candle",
+    "shelf"
+  ],
+  "image_456": [
+    "window",
+    "bed",
+    "cat",
+    "scarf"
+  ],
+  "image_457": [
+    "scissors",
+    "tree",
+    "glasses"
+  ],
+  "image_458": [
+    "table",
+    "bench",
+    "door"
+  ],
+  "image_459": [
+    "shoe",
+    "mirror",
+    "painting",
+    "bed"
+  ],
+  "image_460": [
+    "scissors",
+    "plant",
+    "scarf",
+    "television"
+  ],
+  "image_461": [
+    "spoon",
+    "glasses",
+    "shelf"
+  ],
+  "image_462": [
+    "chair",
+    "shoe",
+    "rug",
+    "phone",
+    "towel"
+  ],
+  "image_463": [
+    "plant",
+    "chair",
+    "pillow"
+  ],
+  "image_464": [
+    "scarf",
+    "stool",
+    "lamp",
+    "mirror"
+  ],
+  "image_465": [
+    "umbrella",
+    "computer",
+    "phone",
+    "bench",
+    "mirror"
+  ],
+  "image_466": [
+    "car",
+    "computer",
+    "door",
+    "lamp"
+  ],
+  "image_467": [
+    "candle",
+    "toothbrush",
+    "clock",
+    "spoon",
+    "painting"
+  ],
+  "image_468": [
+    "umbrella",
+    "towel",
+    "pillow"
+  ],
+  "image_469": [
+    "shelf",
+    "book",
+    "dog",
+    "umbrella",
+    "pillow"
+  ],
+  "image_470": [
+    "book",
+    "table",
+    "fork",
+    "stool",
+    "scarf"
+  ],
+  "image_471": [
+    "toothbrush",
+    "table",
+    "candle"
+  ],
+  "image_472": [
+    "umbrella",
+    "bike",
+    "shoe",
+    "fork",
+    "towel"
+  ],
+  "image_473": [
+    "spoon",
+    "cat",
+    "person",
+    "shoe",
+    "window"
+  ],
+  "image_474": [
+    "rug",
+    "table",
+    "spoon",
+    "clock"
+  ],
+  "image_475": [
+    "hat",
+    "chair",
+    "bag",
+    "painting",
+    "cup"
+  ],
+  "image_476": [
+    "person",
+    "stool",
+    "candle",
+    "bike"
+  ],
+  "image_477": [
+    "painting",
+    "candle",
+    "lamp"
+  ],
+  "image_478": [
+    "cup",
+    "car",
+    "book"
+  ],
+  "image_479": [
+    "television",
+    "tree",
+    "candle"
+  ],
+  "image_480": [
+    "spoon",
+    "glasses",
+    "door"
+  ],
+  "image_481": [
+    "scarf",
+    "bench",
+    "clock",
+    "computer"
+  ],
+  "image_482": [
+    "bag",
+    "clock",
+    "chair"
+  ],
+  "image_483": [
+    "bench",
+    "book",
+    "shelf"
+  ],
+  "image_484": [
+    "bed",
+    "glasses",
+    "painting",
+    "window"
+  ],
+  "image_485": [
+    "fork",
+    "towel",
+    "cat",
+    "scarf",
+    "person"
+  ],
+  "image_486": [
+    "candle",
+    "car",
+    "shoe",
+    "umbrella",
+    "spoon"
+  ],
+  "image_487": [
+    "television",
+    "scarf",
+    "tree",
+    "lamp"
+  ],
+  "image_488": [
+    "stool",
+    "table",
+    "mirror",
+    "candle"
+  ],
+  "image_489": [
+    "television",
+    "bed",
+    "scissors",
+    "bench",
+    "pillow"
+  ],
+  "image_490": [
+    "glasses",
+    "rug",
+    "television",
+    "pillow"
+  ],
+  "image_491": [
+    "table",
+    "pillow",
+    "fork"
+  ],
+  "image_492": [
+    "phone",
+    "candle",
+    "rug",
+    "pillow",
+    "towel"
+  ],
+  "image_493": [
+    "fan",
+    "umbrella",
+    "mirror"
+  ],
+  "image_494": [
+    "car",
+    "toothbrush",
+    "door",
+    "window",
+    "mirror"
+  ],
+  "image_495": [
+    "tree",
+    "rug",
+    "pillow",
+    "bag"
+  ],
+  "image_496": [
+    "door",
+    "lamp",
+    "book",
+    "mirror",
+    "table"
+  ],
+  "image_497": [
+    "bike",
+    "phone",
+    "cup"
+  ],
+  "image_498": [
+    "fan",
+    "towel",
+    "television"
+  ],
+  "image_499": [
+    "painting",
+    "scarf",
+    "person",
+    "fan"
+  ]
+}
