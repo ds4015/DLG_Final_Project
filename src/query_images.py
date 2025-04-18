@@ -16,10 +16,13 @@ if __name__ == "__main__":
     if len(all_results) == 0:
         print(f"'{object}' does not exist in dataset")
 
-    if max_len == '':
-        max_len = len(all_results)
+    else:
 
-    results = random.sample(all_results, int(max_len))
-    print(f"Found {len(results)} images containing '{object}':")
-    for img in results:
-        print(img)
+        if max_len == '':
+            max_len = len(all_results)
+
+        results = random.sample(all_results, min(int(max_len), len(all_results)))
+        print(f"Found {len(all_results)} images containing '{object}':")
+        for img in results:
+            print(img)
+            # would show image so we can do visual check of model accuracy
