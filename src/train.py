@@ -14,7 +14,7 @@ def main():
 
     register_coco_instances(
         "val2017_stylized_train", {},
-        "../datasets/instances_val2017.json",
+        "../datasets/instances_val2017_stylized.json",
         "../datasets/coco_stylized"
     )
 
@@ -22,7 +22,7 @@ def main():
     cfg.merge_from_file(
         model_zoo.get_config_file("COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml")
     )
-    cfg.MODEL.DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
+    cfg.MODEL.DEVICE = "mps" if torch.mps.is_available() else "cpu"
 
     cfg.DATASETS.TRAIN = ("val2017_orig_train", "val2017_stylized_train")
 
