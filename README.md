@@ -41,6 +41,30 @@ versions of the simple sketches.  The results of this test set can be found in r
 
 ## Sample Results
 
+![triplet_32_1111](https://github.com/user-attachments/assets/71bbaa34-7c38-43ed-a340-10fb1c297c94)
+![triplet_02_1012](https://github.com/user-attachments/assets/2088d70a-86ed-4c0a-b63e-08af82768a7b)
+![triplet_24_1223](https://github.com/user-attachments/assets/27d31068-9f49-4053-9e35-75fa4f455848)
+![triplet_07_510](https://github.com/user-attachments/assets/87c8904d-5e78-4915-bc13-260978cd396e)
+![triplet_10_1049](https://github.com/user-attachments/assets/40cf9cc5-d543-41ee-ad60-f9bcd33536f1)
+![triplet_12_1038](https://github.com/user-attachments/assets/12110eb1-8a28-4811-8a82-d407ce6a5d4a)
+![triplet_46_301](https://github.com/user-attachments/assets/bf1c2a89-691e-4da9-8c0b-6e6f8f0315d9)
+![triplet_13_336](https://github.com/user-attachments/assets/b2b18d02-7317-46dc-bc73-80a85338cf78)
+![triplet_35_342](https://github.com/user-attachments/assets/2f70ee1e-be3c-4881-9ecd-3ef45f6532e3)
+![triplet_38_550](https://github.com/user-attachments/assets/842b8265-9106-454b-a1f5-27bf3a3d5035)
+![triplet_38_555](https://github.com/user-attachments/assets/71461450-2d10-4747-8c01-bc5748776a67)
+![triplet_40_0](https://github.com/user-attachments/assets/12f1e7e5-947e-40bc-aab0-3c0a326ad20e)
+![triplet_41_534](https://github.com/user-attachments/assets/b46b5adf-c0d0-4544-bc1c-6b03d90a57a7)
+![triplet_43_1209](https://github.com/user-attachments/assets/89dc5716-e5a4-46d0-b254-5071568e947b)
+![triplet_45_13](https://github.com/user-attachments/assets/bc0c0bd9-41b3-4396-a981-4f0f1e01a8d0)
+![triplet_36_672](https://github.com/user-attachments/assets/0a6bfd7b-9655-4773-9571-f58ddff81548)
+![triplet_31_1031](https://github.com/user-attachments/assets/b4dfc6e0-0134-456e-a8c3-c63514bd3584)
+![triplet_30_617](https://github.com/user-attachments/assets/d0dad967-3d85-45b5-8b3a-d4e26e150ec7)
+![triplet_20_1293](https://github.com/user-attachments/assets/1eb4936c-810b-4a44-bde1-4c94daeb218e)
+![triplet_10_831](https://github.com/user-attachments/assets/566cc046-0c17-4c33-8f49-6bef5ccc7336)
+![triplet_13_1186](https://github.com/user-attachments/assets/ea5c7c42-4d54-4ee7-aa67-248c0c3b8ca5)
+
+
+
 ## Prior Conceptualization
 
 This project initially began as an object detection model with the aim of using labeled objects
