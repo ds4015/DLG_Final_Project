@@ -13,9 +13,9 @@ from contour_gan import ConditionalUNet
 DEVICE           = torch.device('mps' if torch.backends.mps.is_available() else 'cpu')
 CHECKPOINT_EPOCH = 79
 CHECKPOINT       = "../models/main_generator_epoch_99.pth"
-INPUT_DIR        = '../aic'
-ORIG_DIR         = '../art_institute_drawings'
-OUT_DIR          = '../results/aic'
+INPUT_DIR        = '../datasets/val_A
+ORIG_DIR         = '../datasets/val_B'
+OUT_DIR          = '../results/validation_results'
 PALETTE_HEIGHT   = 64
 FULL_SIZE        = 256
 
