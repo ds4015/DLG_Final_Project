@@ -1,8 +1,12 @@
 # Deep Learning: Graphics - Final Project
 
-Final team project for Deep Learning: Graphics at Barnard, Spring 2025
+Dallas Scott (ds4015)
 
-*README updated on 5/7/2025*
+Final project for Deep Learning: Graphics at Barnard, Spring 2025
+
+<em>NOTE:  Final Written Report has been updated since submission to CW and pushed here.</em>
+
+*README updated on 5/9/2025*
 
 ## Contents
 
@@ -86,49 +90,71 @@ training a GAN using these masks as input, the project was reconceptualized.
 
 ## Directory Structure
 
-The directories are as ordered as follows:
+The files are as ordered as follows:
+
+```
+- DLG_Final_Written_Report:  Final version of written project report (PDF).
+- DLG Final Project.mp4.zip:  Final version of project video (mp4/zip).
+```
+
+```
+- src:  Source files
+    >  contour_gan.py:  Model training script
+    >  test_gan.py:     Inference script
+    >  extract_palettes.py:  Preprocessing script
+```
 
 ```
 - datasets: All original datasets used for training and validation
     >  train_A:  Contour+palette combination images used as input into the GAN (5,191 contours)
     >  train_B:  The original artworks corresponding to the files in train_A (5,191 artworks)
+    >  train_A_new:  Contour+palette combination images (Canny low/high threshold)[untrained]
     >    val_A:  Contour+palette combination images used for testing the GAN (1,299 contours)
     >    val_B:  Original artworks corrseponding to files in val_A (1,299 artworks)
                  (val_B not used for testing or training; comparison only)
+         val_A_new:  Contour+palette combination images (Canny low/high threshold)[unvalidated]
     >  val_simple_sketches:  Simple sketches dataset (20,000 sketches) used to test trained model
     >  prelim_projects_datasets:  Datasets that were used in original project conception
           * coco_val2017:  Common Objects in Context validation 2017 dataset used for training
           * coco_stylized:  Stylized versions of COCO val2017 dataset
-    >  binary_masks(unused):  Black/white bounding boxes representing where certain objects
-            are located in the original painting to tell the GAN to focus on these areas.
-            This is currently not used in the currently trained model.
 ```
 
 ```
 - results: Results from running the trained GAN on specific sketch datasets
      > val_results:  Validation results from original artworks dataset 
-         * val_contour:  The contour+palette images used for testing (1,299 contour images)
-         * val_original:  The original artwork images (1,299 artworks) not used except for comparison
+         * val_contour:  The contour+palette images used for testing (1,299 contour 
+            images)
+         * val_original:  The original artwork images (1,299 artworks) not used 
+            except for comparison
          * val_synthesized:  The synthesized GAN model results (1,299 novel artworks)
-     > simple_sketch_results:  The results after testing the GAN on 20,000 simple sketch images
-         * ss_contour:  The simple sketch images with random color palettes (20,000 contours)
-         * ss_original:  The original simple sketch images used for comparison only (20,000 works)
-         * ss_synthesized:  The colorized/painted GAN conceptualization of the sketches with the
-                given color palette (20,000 synthesized images)
-    > prelim_proj_results:  Artwork object detection bounding boxes and crops from original
-            project conception.
+     > simple_sketch_results:  The results after testing the GAN on 20,000 simple 
+            sketch images
+         * ss_contour:  The simple sketch images with random color palettes 
+            (20,000 contours)
+         * ss_original:  The original simple sketch images used for comparison only 
+            (20,000 works)
+         * ss_synthesized:  The colorized/painted GAN conceptualization of the sketches 
+            with the given color palette (20,000 synthesized images)
+    > synth_grids:  epochs 5-99 samples for all validation images
+    > val_grid:  same as val_results but all 3 (contour, original, synthesized) in 
+        one image
+    > val_grid_w_palette:  same as val_grid but with fourth panel (color palette)
+    > prelim_proj_results:  Artwork object detection bounding boxes and crops from 
+        original project conception.
 ```
 
 ```
-- samples: Sample triplet images showing a small subset of the results with original/contour/synthesized
-     images placed in juxtaposition for comparison to see how the model performs
+- samples: Sample triplet images showing a small subset of the results with 
+    original/contour/synthesized images placed in juxtaposition for comparison 
+    to see how the model performs
 ```
 
 ```
-- models: 200 trained models (.pth) - 100 discriminator and 100 generator.  Each model corresponds to
-     one epoch and is labeled with the epoch number as the suffix in the file name.  Only the final trained
-     model is included in this directory.  The remaining are used merely to generate sample reference images 
-     from all aspects of the training process and can be ignored and aren't included here due to space
-     constraints.
+- models: 200 trained models (.pth) - 100 discriminator and 100 generator.  Each 
+     model corresponds to one epoch and is labeled with the epoch number as the 
+     suffix in the file name.  Only the final trained model is included in this 
+     directory.  The remaining are used merely to generate sample reference images 
+     from all aspects of the training process and can be ignored and aren't included 
+     here due to space constraints.
 ```
 
